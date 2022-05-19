@@ -1,3 +1,3 @@
 # Voodoo
 
-Deep Learning in Golang.
+Deep Learning in Go, for Go.
